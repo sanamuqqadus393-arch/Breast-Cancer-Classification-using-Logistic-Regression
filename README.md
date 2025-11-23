@@ -8,10 +8,7 @@ The dataset used for this project is included in this repository.
 
 File: **breast_cancer_dataset.csv**
 
-You can open it here:
-[breast_cancer_dataset.csv]
-(breast_cancer_dataset.csv)
-
+You can open it here: [breast_cancer_dataset.csv](breast_cancer_dataset.csv)
 ## **Model Used**
 Logistic Regression from scikit learn.
 
