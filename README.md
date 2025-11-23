@@ -4,7 +4,13 @@
 This project predicts whether a breast tumor is malignant or benign using logistic regression. It uses the breast cancer dataset from scikit learn and demonstrates basic data analysis, model training, prediction, and accuracy evaluation.
 
 ## **Dataset**
-Scikit learn Breast Cancer Wisconsin dataset.
+The dataset used for this project is included in this repository.
+
+File: **breast_cancer_dataset.csv**
+
+You can open it here:
+[breast_cancer_dataset.csv]
+(breast_cancer_dataset.csv)
 
 ## **Model Used**
 Logistic Regression from scikit learn.
